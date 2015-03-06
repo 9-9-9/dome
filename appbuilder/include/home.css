@@ -1,0 +1,98 @@
+body { margin:0; padding:0; font:12px Arial, Helvetica, sans-serif; background:url(include/maintfbgplain.jpg) no-repeat left top; }
+
+* { margin:0; padding:0}
+#wrapper { margin:0; padding:0; position:relative}
+
+h1.tsb { font:45px Arial, Helvetica, sans-serif; font-weight:normal; padding-top:20px; padding-left:340px; text-align:left}
+h2.wbaa {font:30px Arial, Helvetica, sans-serif; font-weight:normal; padding: 2px; padding-left:340px; text-align:left; color:#666666}
+#authentication { width:600px; height:370px; margin:0 auto; padding:0; padding-top:60px;}
+#authentication2 { width:600px; height:370px; margin:0 auto; padding:0; padding-top:80px;}
+
+#erbox { width:600px; height:200px; margin:0 auto; padding:0; margin-top:80px;}
+
+#authentication form { padding-top:30px;}
+.hdtxt { padding:5px 0; padding-left:10px; text-align:center; color:#2CB9E2; font:30px Arial, Helvetica, sans-serif; font-weight:normal }
+
+.err { color:#FF3300; text-align:center}
+
+p.err { text-align:center; padding:12px; font:18px Arial, Helvetica, sans-serif; font-weight:normal; color:#FF3300; padding-top:30px;}
+
+.loginbx { padding:10px; border:0; border-top:1px #CCCCCC solid;  height:180px;}
+.loginbx-plain { padding:10px; border:1px #CCCCCC solid; background:#FFF; height:180px;}
+.frow { width:90%; margin:0 auto; clear:both; height:52px;}
+.leftcl { width:32%; text-align:right; padding-right:10px; float:left; height:52px; font:16px Arial, Helvetica, sans-serif; color:#999999; font-weight:bold}
+.rightcl { width:66%; text-align:left; float:left; height:52px; font:16px Arial, Helvetica, sans-serif; color:#999999; font-weight:bold}
+.err { color:#FF3300; text-align:center}
+
+.rightcl2 { width:66%; text-align:left; float:left; height:52px; text-align:right}
+
+.rightcll { width:64%; text-align:right; padding-right:5px; float:left; height:24px; padding-top:8px}
+.rightcll a { color:#0066CC}
+
+
+.frowf { width:90%; margin:0 auto; clear:both; height:32px;}
+.leftclf { width:32%; text-align:right; padding-right:5px; float:left; height:32px; font-size:14px}
+.rightclf { width:66%; text-align:left; padding-right:5px; float:left; height:24px; padding-top:8px; text-align:right}
+.rightclf a { color:#FF9900}
+
+.btn { padding:3px; border:1px #666 solid; color:#666; font:16px Arial, Helvetica, sans-serif; font-weight:bold}
+.etxt{ font-weight:bold; color:#FF0000;}
+#footer { padding:30px; margin:0 auto; text-align:center; padding-top:120px; font:12px Arial, Helvetica, sans-serif; color:#666666}
+.style1 {color: #666666}
+#leftbanner {
+	position:absolute;
+	left:1px;
+	top:1px;
+	width:249px;
+	height:513px;
+	z-index:1;
+}
+
+#flbanner { width:900px; margin:0 auto; padding:0; height:290px; text-align:left; clear:both; padding-top:20px;}
+
+#featuresbner { width:900px; height:auto; margin:0 auto; padding:0; text-align:left;}
+#featuresbner h3 { margin-top:20px; font:16px Arial, Helvetica, sans-serif; font-weight:bold; color:#2CB9E2; text-align:left; padding-left:20px;}
+#featuresbner h3 a {color:#2CB9E2; }
+#featuresbner p { padding:12px 80px; text-align:justify; font:14px Arial, Helvetica, sans-serif; font-weight:normal; color:#666666; line-height:16px;}
+#featuresbner p a { text-decoration:underline; color:#666666;}
+#featuresbner p a:hover { color:#2CB9E2}
+#featuresbner p.wbf { line-height:20px;}
+
+
+#samples,#fbsamples { width:900px; height:400px; margin:0 auto; padding:0; text-align:center; padding-bottom:20px; clear:both}
+#samples h3,#fbsamples h3 { margin:20px 0px; font:16px Arial, Helvetica, sans-serif; font-weight:bold; color:#2CB9E2; text-align:left; padding-left:20px;}
+#samples ul,#fbsamples ul { width:98%; margin:0 auto; list-style-type:none; text-align:center; padding:0; clear:both}
+#samples ul li,#fbsamples ul li { width:33%; height:300px; float:left;}
+#samples ul li a,#fbsamples ul li a { color:#2CB9E2; text-decoration:none}
+#samples ul li a img,#fbsamples ul li a img { text-decoration:none}
+img.smpl { text-decoration:none}
+#samples ul li a:hover,#fbsamples ul li a:hover { color:#666666; text-decoration:none}
+
+
+p.more { width:88%; margin:0 auto; text-align:right}
+p.more a{ font:14px Arial, Helvetica, sans-serif; text-decoration:underline; font-weight:bold; color:#666666;}
+p.more a:hover { color:#2CB9E2}
+#fnav { width:900px; margin:0 auto; margin-top:65px; height:60px; }
+#fnav a { padding:8px; color:#999999; text-decoration:underline}
+#fnav a:hover { color:#000000}
+#lchat {
+	position:absolute;
+	right:24px;
+	top:12px;
+	width:165px;
+	height:60px;
+	z-index:600;
+}
+#lchat a { border:0; text-decoration:none}
+
+/*5features*/
+#iph { width:874px; margin:0 auto; height:300px; font:34px Arial, Helvetica, sans-serif; font-weight:bold; color:#000; padding-top:20px; clear:both}
+.pc { background:url(stunningflashweb.jpg) no-repeat center center; width:210px; height:283px; padding-top:8px; float:left; text-align:center  }
+.iphn {  background:url(mobilewebsite.jpg) no-repeat center center; width:110px; height:283px; padding-top:8px; float:left}
+.seohm { background:url(seohome.jpg) no-repeat center center; width:147px; height:283px; padding-top:8px; float:left}
+.fbhm { background:url(fbfanpage.jpg) no-repeat center center; width:177px; height:283px; padding-top:8px; float:left}
+.lsphm { background:url(lsphome.jpg) no-repeat center center; width:162px; height:283px; padding-top:8px; float:left}
+.plusbg { width:17px; background:url(plusbg.gif) no-repeat center center; float:left; height:274px;}
+
+.pc,.iphn,.seohm,.fbhm,.lsphm { font-size:18px; font-weight:normal; line-height:20px; color:#646464}
+.hmblu { color:#00B7D8}

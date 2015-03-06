@@ -1,0 +1,9 @@
+/* for ie */
+body {
+	background:url(tsbimages/texturebg-ie.jpg) repeat;
+	}
+	
+img.logo { float:left; border:0; margin-left:60px;}
+#panel ul { padding:0;}
+
+.intext { background:#939393; border:1px solid #666; font-size:16px; padding:2px 4px; color:#FFF; font-weight:bold}

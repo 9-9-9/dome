@@ -1,0 +1,54 @@
+
+.fbrow3 { height:180px; border:0; margin:0; clear:both}
+.fbleftcol3 { width:35%; padding-right:20px; height:150px; padding-top:16px; text-align:right; float:left}
+.fbleftcol3 a { color:#666666; font:Arial, Helvetica, sans-serif}
+.fbrightcol3 { width:62%; text-align:left; padding-top:16px; height:164px; float:left}
+
+
+.fbrow4 { width:66%; margin:0 auto; height:160px; border:1px #999999 solid; margin:0; background:#f5f5f5; clear:both}
+.fbleftcol4 { width:56%; padding-right:20px; height:144px; padding-top:16px; text-align:right; float:left}
+.fbleftcol4 a { color:#666666; font:Arial, Helvetica, sans-serif}
+.fbrightcol4 { width:40%; text-align:left; padding-top:16px; height:144px; float:left}
+.fbrightcol4 { width:40%; text-align:left; padding-top:6px; height:154px; float:left}
+
+.fbrow { height:100px; border:0; margin:0; clear:both}
+.fbleftcol { width:35%; padding-right:20px; height:84px; padding-top:16px; text-align:right; float:left}
+.fbleftcol a { color:#666666; }
+.fbrightcol { width:62%; text-align:left; padding-top:16px; height:84px; float:left}
+
+
+.fbleftcol,.fbleftcol3,.fbleftcol4,.fbleftcolb { font-size:16px; line-height:20px;}
+
+.fbrowb { height:60px; border:0; margin:0; clear:both; margin-bottom:20px;}
+.fbleftcolb { width:35%; padding-right:20px; height:44px; padding-top:16px; text-align:right; float:left}
+.fbrightcolb a { color:#666666; font:Arial, Helvetica, sans-serif}
+.fbrightcolb { width:62%; text-align:left; padding-top:16px; height:44px; float:left}
+
+.mtxt{ font-size:14px; line-height:16px;}
+span.mtxt a { color:#FF6633; text-decoration:underline}
+#footer { padding:30px; margin:0 auto; text-align:center; padding-top:150px; font:12px Arial, Helvetica, sans-serif; color:#666666}
+
+.btn { padding:3px; border:1px #666 solid; color:#666; font:14px Arial, Helvetica, sans-serif; font-weight:bold}
+
+
+
+/*colors*/
+.wt { background-color:#FFFFFF; color:#000}
+.rd { background-color:#FF0000; color:#FFFFFF }
+.gr { background-color:#009900; color:#FFFFFF}
+.bl { background-color:#0000FF; color:#FFFFFF}
+.mg { background-color:#FF00FF;color:#FFFFFF}
+.blk { background-color:#000000; color:#FFFFFF;}
+.or { background-color:#FF6600; color:#FFFFFF;}
+.pr { background-color:#9900FF; color:#FFFFFF;}
+.mr { background-color:#990000; color:#FFFFFF;}
+.nv { background-color:#000066; color:#FFFFFF;}
+.dp { background-color:#330066; color:#FFFFFF;}
+.sp { background-color:#336600; color:#FFFFFF;}
+.br { background-color:#660000; color:#FFFFFF;}
+.dpk { background-color:#CC00FF; color:#FFFFFF;}
+.yo { background-color:#CC9900; color:#FFFFFF;}
+.dr { background-color:#CC0000; color:#FFFFFF;}
+.lgr { background-color:#669900; color:#FFFFFF;}
+
+.wt,.rd,.gr,.bl,.cy,.mg,.yl,.blk,.or,.pr,.mr,.nv,.dp,.sp,.br,.dpk,.yo,.dr,.lgr{ border-bottom:5px #FFFFFF solid;}
